@@ -1,5 +1,5 @@
-# EXECUTOR V1.6.1
+# EXECUTOR V1.7
 Inital push for 
-Next repository for the executor updates
+Next repository for the executor 1.7 update
 
 PLEASE NOTE: ALL REPOSITORIES CHANGE FOR ALL NEW VERSION PUSHES, EVERYTHING IS SUBJECT TO CHANGE
